@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "개발/잡기술/한글 클로드로 작업할 때 접근 모두허용 하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
+              "title": "한글 클로드로 작업할 때 접근 모두허용 하기"
             }
           },
           {
@@ -39,46 +39,23 @@
             "id": "642e0ddb09ea51b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/객체지향.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "객체지향"
+              "title": "새 탭"
             }
           },
           {
             "id": "3d6f9afa7a55bf02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/이론/객체지향.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "객체지향"
-            }
-          },
-          {
-            "id": "77303cbaad4fa82d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/AI활용/JEV.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JEV"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,44 +222,44 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1304b045325eaa93",
+  "active": "5eb108e7b27fef67",
   "lastOpenFiles": [
+    "환영합니다!.md",
+    "건강/다이어트/기초대사량.md",
+    "개발/언어/Rust.md",
+    "보안/클라우드/DaaS/연구/오픈소스 프로젝트.md",
+    "개발/언어",
+    "보안/클라우드/DaaS/연구/연구동향.md",
+    "보안/클라우드/DaaS/연구/개념.md",
+    "보안/클라우드/DaaS/개발/공통요구사항.md",
+    "보안/클라우드/DaaS/연구/자료.md",
+    "보안/클라우드/DaaS/연구/연구동향.md.tmp.23.c8c1977bb01f",
+    "보안/클라우드/DaaS",
     "보안/제로트러스트/연구/자료.md",
-    "보안/제로트러스트/연구/오픈소스 프로젝트.md",
+    "보안/클라우드/DaaS/연구",
+    "보안/클라우드/DaaS/개발",
+    "보안/클라우드",
+    "보안/ICS SCADA/연구/개념.md",
+    "보안/ICS SCADA/연구/오픈소스 프로젝트.md",
+    "보안/제로트러스트/개발/공통요구사항.md",
+    "보안/ICS SCADA/개발/공통요구사항.md",
+    "보안/ICS SCADA/연구/자료.md",
+    "보안/ICS SCADA/연구/연구동향.md",
+    "보안/제로트러스트/연구/개념.md",
     "보안/제로트러스트/연구/연구 동향.md",
-    "보안/제로트러스트/개발/요구사항.md",
-    "보안/제로트러스트/연구",
-    "보안/제로트러스트/개발",
-    "보안/제로트러스트",
-    "보안",
-    "개발/AI활용/wsl 사용 이유.md",
+    "보안/ICS SCADA/연구/연구동향.md.tmp.23.689f66e047e1",
+    "보안/제로트러스트/연구/오픈소스 프로젝트.md",
+    "보안/ICS SCADA/연구/오픈소스 프로젝트.md.tmp.23.d33b57726436",
+    "보안/ICS SCADA/연구/자료.md.tmp.23.bcc1183fa38b",
+    "개발/이론/객체지향.md",
+    "보안/ICS SCADA/개발",
+    "개발/보안/n2sf.md",
     "개발/AI활용/JEV.md",
+    "개발/AI활용/wsl 사용 이유.md",
     "개발/AI활용/Worktrunk - 여러 코딩 에이전트의 Git 작업 공간을 관리하는 CLI.md",
     "개발/AI활용/Diagram Design.md",
     "개발/잡기술/한글 클로드로 작업할 때 접근 모두허용 하기.md",
     "개발/설계/설계문서 작성법.md",
-    "개발/보안/n2sf.md",
-    "개발/단어장.md",
-    "개발/보안",
-    "개발/해킹",
-    "개발/잡기술/이진우 대표님 스타일.md",
-    "개발/잡기술/타임스탬프 빠르게 찍기.md",
-    "개발/잡기술/기관 컨설팅 양식.md",
-    "2025년 상반기 지방공공기관 심층 및 맞춤형 컨설팅_Ⅱ_공개.pdf",
-    "2025년 상반기 지방공공기관 심층 및 맞춤형 컨설팅_Ⅰ_공개.pdf",
-    "개발/AI활용/멀티에이전트 구성/멀티에이전트 오케스트레이션 구성 v2(토큰 절약 버전).md",
-    "개발/AI활용/멀티에이전트 구성/멀티에이전트 오케스트레이션 구성 v1(전체 Fable버전).md",
-    "개발/AI활용/멀티에이전트 구성/멀티에이전트-오케스트레이션_구축_배포용_v2(토큰절약버전).md",
-    "개발/AI활용/멀티에이전트 구성/멀티에이전트-오케스트레이션_구축_배포용_v3(WSL-ext4).md",
-    "개발/AI활용/멀티에이전트 구성/멀티에이전트-오케스트레이션_구축_배포용_v4(WSL-ext4).md",
-    "개발/AI활용/IO 시간 단축.md",
-    "개발/AI활용/트랜스포머 시각화 사이트.md",
-    "개발/AI활용/멀티 에이전트.md",
-    "개발/AI활용/디벨롭.md",
-    "개발/AI활용/가속형 개발자 vs 바이브코더.md",
-    "개발/프론트/대시보드 만들 때.md",
-    "개발/DB",
-    "개발/AI활용/하네스",
     "png/Pasted image 20260909143129.png",
     "png/Pasted image 20260909111006.png"
   ]
